@@ -34,3 +34,15 @@ body{
 .userFlash{
     background-color: green;
 }
+
+#start{
+    width: 300px;
+    background-color: green;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
