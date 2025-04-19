@@ -1,0 +1,4 @@
+sound list
+start - when click on start
+click - when click any color button
+wrong - when game over
